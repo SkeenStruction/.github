@@ -8,4 +8,4 @@ This organization is related to any projects that are made by or for SkeenStruct
 - Twitch:  https://www.twitch.tv/skeenstruction
 - X (Twitter):  https://twitter.com/skeenstruction
 
-© 2023 SkeenStruction, LLC
+© 2026 SkeenStruction, LLC
